@@ -1,4 +1,4 @@
-### smi-service-dell-server-inventory
+### smi-service-dell-server-inventory test
 
 Connects via the IDRAC on a Dell server and collects a comprehensive inventory.
 
